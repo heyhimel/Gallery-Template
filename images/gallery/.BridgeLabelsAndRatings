@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<bridgedata version='1'>
+	<labels version='1'>
+		<item key='food' label='Select'/>
+		<item key='restaurant' label='Select'/>
+		<item key='drinks' label='Approved'/>
+		<item key='fun' label='Select'/>
+	</labels>
+</bridgedata>
